@@ -1,0 +1,237 @@
+
+/* Class = "UILabel"; text = "Label"; ObjectID = "0b4-eM-2vz"; */
+"0b4-eM-2vz.text" = "Label";
+
+/* Class = "UILabel"; text = "Aliases"; ObjectID = "1Ux-Sr-4CT"; */
+"1Ux-Sr-4CT.text" = "Aliases";
+
+/* Class = "UILabel"; text = "Alter"; ObjectID = "2c0-bo-OWu"; */
+"2c0-bo-OWu.text" = "Alter";
+
+/* Class = "UILabel"; text = "Type"; ObjectID = "2cE-M6-Xec"; */
+"2cE-M6-Xec.text" = "Type";
+
+/* Class = "UITabBarItem"; title = "Item"; ObjectID = "38S-m0-aNH"; */
+"38S-m0-aNH.title" = "Item";
+
+/* Class = "UILabel"; text = "Label"; ObjectID = "3Kj-YX-pg4"; */
+"3Kj-YX-pg4.text" = "Label";
+
+/* Class = "UILabel"; text = "Genger"; ObjectID = "3Ud-mY-RM3"; */
+"3Ud-mY-RM3.text" = "Genger";
+
+/* Class = "UILabel"; text = "Speed"; ObjectID = "73g-s9-EE7"; */
+"73g-s9-EE7.text" = "Speed";
+
+/* Class = "UILabel"; text = "Name"; ObjectID = "7qV-ir-KKN"; */
+"7qV-ir-KKN.text" = "Name";
+
+/* Class = "UILabel"; text = "Number"; ObjectID = "89E-in-LTe"; */
+"89E-in-LTe.text" = "Number";
+
+/* Class = "UILabel"; text = "Number"; ObjectID = "8YS-KO-fCD"; */
+"8YS-KO-fCD.text" = "Number";
+
+/* Class = "UILabel"; text = "Number"; ObjectID = "Bcb-vM-NeR"; */
+"Bcb-vM-NeR.text" = "Number";
+
+/* Class = "UILabel"; text = "Number"; ObjectID = "Bx9-WT-V9V"; */
+"Bx9-WT-V9V.text" = "Number";
+
+/* Class = "UILabel"; text = "Label"; ObjectID = "C4G-1Q-61f"; */
+"C4G-1Q-61f.text" = "Label";
+
+/* Class = "UILabel"; text = "Aliases"; ObjectID = "CEo-rt-Nh1"; */
+"CEo-rt-Nh1.text" = "Aliases";
+
+/* Class = "UILabel"; text = "Label"; ObjectID = "CiN-eF-lI6"; */
+"CiN-eF-lI6.text" = "Label";
+
+/* Class = "UILabel"; text = "Genger"; ObjectID = "DfW-31-4gL"; */
+"DfW-31-4gL.text" = "Genger";
+
+/* Class = "UILabel"; text = "Name"; ObjectID = "FTY-VT-oG4"; */
+"FTY-VT-oG4.text" = "Name";
+
+/* Class = "UILabel"; text = "Eye Color"; ObjectID = "Fx7-1I-3Og"; */
+"Fx7-1I-3Og.text" = "Eye Color";
+
+/* Class = "UILabel"; text = "Label"; ObjectID = "H65-hc-dEO"; */
+"H65-hc-dEO.text" = "Label";
+
+/* Class = "UILabel"; text = "Stregth"; ObjectID = "HrZ-cE-87x"; */
+"HrZ-cE-87x.text" = "Stregth";
+
+/* Class = "UILabel"; text = "Label"; ObjectID = "INb-Bk-Ffu"; */
+"INb-Bk-Ffu.text" = "Label";
+
+/* Class = "UILabel"; text = "Team"; ObjectID = "InG-5u-oUB"; */
+"InG-5u-oUB.text" = "Team";
+
+/* Class = "UILabel"; text = "Stregth"; ObjectID = "Izk-6h-Xyb"; */
+"Izk-6h-Xyb.text" = "Stregth";
+
+/* Class = "UINavigationController"; title = "superheroe"; ObjectID = "Kku-7n-vic"; */
+"Kku-7n-vic.title" = "superheroe";
+
+/* Class = "UILabel"; text = "Number"; ObjectID = "LKe-48-eYk"; */
+"LKe-48-eYk.text" = "Number";
+
+/* Class = "UITabBarItem"; title = "Vs"; ObjectID = "NMQ-m7-bNS"; */
+"NMQ-m7-bNS.title" = "Vs";
+
+/* Class = "UITabBarItem"; title = "Vilians"; ObjectID = "Oa0-rA-ftu"; */
+"Oa0-rA-ftu.title" = "Vilians";
+
+/* Class = "UILabel"; text = "Type"; ObjectID = "Osa-Ya-zBK"; */
+"Osa-Ya-zBK.text" = "Type";
+
+/* Class = "UILabel"; text = "Combat"; ObjectID = "PYn-7N-6Ad"; */
+"PYn-7N-6Ad.text" = "Combat";
+
+/* Class = "UILabel"; text = "Label"; ObjectID = "PiZ-7H-Onv"; */
+"PiZ-7H-Onv.text" = "Label";
+
+/* Class = "UILabel"; text = "Team"; ObjectID = "QQ4-rI-g0L"; */
+"QQ4-rI-g0L.text" = "Team";
+
+/* Class = "UILabel"; text = "Number"; ObjectID = "QTi-Dc-XdP"; */
+"QTi-Dc-XdP.text" = "Number";
+
+/* Class = "UILabel"; text = "Type"; ObjectID = "Qd6-pY-P3h"; */
+"Qd6-pY-P3h.text" = "Type";
+
+/* Class = "UILabel"; text = "Combat"; ObjectID = "S1c-x8-adH"; */
+"S1c-x8-adH.text" = "Combat";
+
+/* Class = "UILabel"; text = "Eye Color"; ObjectID = "S2S-4f-AId"; */
+"S2S-4f-AId.text" = "Eye Color";
+
+/* Class = "UILabel"; text = "Genger"; ObjectID = "S6m-A4-lwj"; */
+"S6m-A4-lwj.text" = "Genger";
+
+/* Class = "UILabel"; text = "Number"; ObjectID = "STG-15-WXg"; */
+"STG-15-WXg.text" = "Number";
+
+/* Class = "UILabel"; text = "Alter"; ObjectID = "VfA-8X-Aqi"; */
+"VfA-8X-Aqi.text" = "Alter";
+
+/* Class = "UILabel"; text = "Number"; ObjectID = "WAr-1j-jvg"; */
+"WAr-1j-jvg.text" = "Number";
+
+/* Class = "UILabel"; text = "Power"; ObjectID = "WMw-pB-NoH"; */
+"WMw-pB-NoH.text" = "Power";
+
+/* Class = "UILabel"; text = "Label"; ObjectID = "WWu-Mg-sYa"; */
+"WWu-Mg-sYa.text" = "Label";
+
+/* Class = "UILabel"; text = "Aliases"; ObjectID = "X1l-wv-pb2"; */
+"X1l-wv-pb2.text" = "Aliases";
+
+/* Class = "UILabel"; text = "Durability"; ObjectID = "YJH-Sw-rtm"; */
+"YJH-Sw-rtm.text" = "Durability";
+
+/* Class = "UILabel"; text = "Type"; ObjectID = "YaY-bJ-e3N"; */
+"YaY-bJ-e3N.text" = "Type";
+
+/* Class = "UIViewController"; title = "Description"; ObjectID = "Yfc-v8-b6B"; */
+"Yfc-v8-b6B.title" = "Description";
+
+/* Class = "UILabel"; text = "Relatives"; ObjectID = "az9-WX-Wed"; */
+"az9-WX-Wed.text" = "Relatives";
+
+/* Class = "UIViewController"; title = "SuperheroeViewController"; ObjectID = "bqL-b1-pTg"; */
+"bqL-b1-pTg.title" = "SuperheroeViewController";
+
+/* Class = "UILabel"; text = "Type"; ObjectID = "brp-rV-Ljq"; */
+"brp-rV-Ljq.text" = "Type";
+
+/* Class = "UILabel"; text = "Type"; ObjectID = "fX0-aG-1TR"; */
+"fX0-aG-1TR.text" = "Type";
+
+/* Class = "UILabel"; text = "Relatives"; ObjectID = "gRY-6Q-63y"; */
+"gRY-6Q-63y.text" = "Relatives";
+
+/* Class = "UILabel"; text = "Number"; ObjectID = "h4S-3r-ezp"; */
+"h4S-3r-ezp.text" = "Number";
+
+/* Class = "UILabel"; text = "Type"; ObjectID = "hAQ-z9-FvX"; */
+"hAQ-z9-FvX.text" = "Type";
+
+/* Class = "UILabel"; text = "Aliases"; ObjectID = "hFk-6i-13R"; */
+"hFk-6i-13R.text" = "Aliases";
+
+/* Class = "UILabel"; text = "Team"; ObjectID = "hi1-ZY-yrY"; */
+"hi1-ZY-yrY.text" = "Team";
+
+/* Class = "UILabel"; text = "Genger"; ObjectID = "iFK-jy-hBi"; */
+"iFK-jy-hBi.text" = "Genger";
+
+/* Class = "UILabel"; text = "Label"; ObjectID = "k4e-hP-XKn"; */
+"k4e-hP-XKn.text" = "Label";
+
+/* Class = "UILabel"; text = "Label"; ObjectID = "k5W-fo-dV5"; */
+"k5W-fo-dV5.text" = "Label";
+
+/* Class = "UILabel"; text = "Relatives"; ObjectID = "l68-G5-z1f"; */
+"l68-G5-z1f.text" = "Relatives";
+
+/* Class = "UILabel"; text = "Durability"; ObjectID = "lA4-S2-rgs"; */
+"lA4-S2-rgs.text" = "Durability";
+
+/* Class = "UILabel"; text = "Relatives"; ObjectID = "lhG-Se-Ivm"; */
+"lhG-Se-Ivm.text" = "Relatives";
+
+/* Class = "UILabel"; text = "Label"; ObjectID = "lks-Yl-H7J"; */
+"lks-Yl-H7J.text" = "Label";
+
+/* Class = "UILabel"; text = "Number"; ObjectID = "mLJ-3G-nuU"; */
+"mLJ-3G-nuU.text" = "Number";
+
+/* Class = "UILabel"; text = "Label"; ObjectID = "oMP-ie-1He"; */
+"oMP-ie-1He.text" = "Label";
+
+/* Class = "UITabBarItem"; title = "Teams"; ObjectID = "otx-Nf-sFl"; */
+"otx-Nf-sFl.title" = "Teams";
+
+/* Class = "UILabel"; text = "Number"; ObjectID = "p4i-k0-Kir"; */
+"p4i-k0-Kir.text" = "Number";
+
+/* Class = "UILabel"; text = "Eye Color"; ObjectID = "pPA-Ra-0Yb"; */
+"pPA-Ra-0Yb.text" = "Eye Color";
+
+/* Class = "UILabel"; text = "Alter"; ObjectID = "poQ-45-Q33"; */
+"poQ-45-Q33.text" = "Alter";
+
+/* Class = "UILabel"; text = "VS"; ObjectID = "q7r-nk-mBd"; */
+"q7r-nk-mBd.text" = "VS";
+
+/* Class = "UILabel"; text = "Team"; ObjectID = "qKj-5M-pmX"; */
+"qKj-5M-pmX.text" = "Team";
+
+/* Class = "UILabel"; text = "Name"; ObjectID = "qtT-5Y-vRq"; */
+"qtT-5Y-vRq.text" = "Name";
+
+/* Class = "UILabel"; text = "Label"; ObjectID = "ra0-Th-nrS"; */
+"ra0-Th-nrS.text" = "Label";
+
+/* Class = "UILabel"; text = "Label"; ObjectID = "seR-aI-p1a"; */
+"seR-aI-p1a.text" = "Label";
+
+/* Class = "UILabel"; text = "Label"; ObjectID = "teG-Kl-mU8"; */
+"teG-Kl-mU8.text" = "Label";
+
+/* Class = "UILabel"; text = "Power"; ObjectID = "uWW-04-WmB"; */
+"uWW-04-WmB.text" = "Power";
+
+/* Class = "UILabel"; text = "Alter"; ObjectID = "ubY-wO-oFk"; */
+"ubY-wO-oFk.text" = "Alter";
+
+/* Class = "UILabel"; text = "Number"; ObjectID = "wcq-vV-ai9"; */
+"wcq-vV-ai9.text" = "Number";
+
+/* Class = "UIViewController"; title = "VS"; ObjectID = "xCd-aX-q7I"; */
+"xCd-aX-q7I.title" = "VS";
+
+/* Class = "UILabel"; text = "Speed"; ObjectID = "zVT-fv-uKV"; */
+"zVT-fv-uKV.text" = "Speed";
